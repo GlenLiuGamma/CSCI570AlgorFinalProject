@@ -1,2 +1,2 @@
 g++ efficient.cpp -o efficient
-./efficient input.txt output.txt
+./efficient SampleTestCases/input1.txt output2.txt

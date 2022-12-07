@@ -1,2 +1,2 @@
 g++ basic.cpp -o basic
-./basic input.txt output.txt
+./basic SampleTestCases/input1.txt output1.txt
