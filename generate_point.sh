@@ -1,0 +1,32 @@
+g++ basic.cpp -o generate_basic
+./generate_basic datapoints/in1.txt BasicPlot.csv
+./generate_basic datapoints/in2.txt BasicPlot.csv
+./generate_basic datapoints/in3.txt BasicPlot.csv
+./generate_basic datapoints/in4.txt BasicPlot.csv
+./generate_basic datapoints/in5.txt BasicPlot.csv
+./generate_basic datapoints/in6.txt BasicPlot.csv
+./generate_basic datapoints/in7.txt BasicPlot.csv
+./generate_basic datapoints/in8.txt BasicPlot.csv
+./generate_basic datapoints/in9.txt BasicPlot.csv
+./generate_basic datapoints/in10.txt BasicPlot.csv
+./generate_basic datapoints/in11.txt BasicPlot.csv
+./generate_basic datapoints/in12.txt BasicPlot.csv
+./generate_basic datapoints/in13.txt BasicPlot.csv
+./generate_basic datapoints/in14.txt BasicPlot.csv
+./generate_basic datapoints/in15.txt BasicPlot.csv
+g++ efficient.cpp -o generate_efficient
+./generate_efficient datapoints/in1.txt EfficientCPU.csv
+./generate_efficient datapoints/in2.txt EfficientCPU.csv
+./generate_efficient datapoints/in3.txt EfficientCPU.csv
+./generate_efficient datapoints/in4.txt EfficientCPU.csv
+./generate_efficient datapoints/in5.txt EfficientCPU.csv
+./generate_efficient datapoints/in6.txt EfficientCPU.csv
+./generate_efficient datapoints/in7.txt EfficientCPU.csv
+./generate_efficient datapoints/in8.txt EfficientCPU.csv
+./generate_efficient datapoints/in9.txt EfficientCPU.csv
+./generate_efficient datapoints/in10.txt EfficientCPU.csv
+./generate_efficient datapoints/in11.txt EfficientCPU.csv
+./generate_efficient datapoints/in12.txt EfficientCPU.csv
+./generate_efficient datapoints/in13.txt EfficientCPU.csv
+./generate_efficient datapoints/in14.txt EfficientCPU.csv
+./generate_efficient datapoints/in15.txt EfficientCPU.csv
